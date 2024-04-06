@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SumanthBathula
 - 👀 I’m interested in Coding
-- 🌱 I’m currently learning Python Full Stack Development
+- 🌱 I’m currently learning Full Stack Development Python 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me this is X id @i_sumanth_
 - 😄 Pronouns:He
